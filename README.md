@@ -1,2 +1,2 @@
-# productLandingPage
-A template for a product landing page
+# tributePage
+A template for a tribute page
